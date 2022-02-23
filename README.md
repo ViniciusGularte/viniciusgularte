@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Web 3 and Smart Contracts**
 
-- 📝 I regularly write articles on [viniciusgularte.com](viniciusgularte.com)
+- 📝 I regularly write articles on [www.viniciusgularte.com](viniciusgularte.com)
 
 - 💬 Ask me about **react, css and anything about js**
 
