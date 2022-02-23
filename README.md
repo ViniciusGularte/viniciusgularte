@@ -12,7 +12,3 @@
 - 💬 Ask me about **react, css and anything about js**
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=viniciusgularte&show_icons=true&locale=en" alt="viniciusgularte" /></p>
-
-<p><img align="rigth" src="https://github-readme-streak-stats.herokuapp.com/?user=viniciusgularte&" alt="viniciusgularte" /></p>
