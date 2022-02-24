@@ -12,3 +12,4 @@
 - 💬 Ask me about **react, css and anything about js**
 
 
+![Viniciu's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusgularte&show_icons=true&theme=radical)
