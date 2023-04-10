@@ -5,11 +5,10 @@
 
 
 
-- 🌱 I’m currently learning **Web 3 and Smart Contracts**
+- 🌱 I’m currently studying a lot more about **UI/UX**
 
-- 📝 Creating the new grammarly for SEO
+- 📝 Creating a lot of new stuff around GPT-3
 
-- 💬 Ask me about **react, css and anything about js**
+- 💬 Ask me about **react, nextjs, css and anything about js**
 
 
-![Viniciu's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusgularte&show_icons=true&theme=radical)
