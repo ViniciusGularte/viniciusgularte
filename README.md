@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently studying a lot more about **UI/UX**
 
-- 📝 Creating a lot of new stuff around GPT-3
+- 📝 Creating a lot of new stuff around WEB 3
 
 - 💬 Ask me anything about **web development**
 
